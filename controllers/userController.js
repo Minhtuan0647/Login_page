@@ -35,5 +35,5 @@ module.exports = {
     loadAuth,
     successGoogleLogin,
     successFacebookLogin,
-    failureLogin,
+    failureLogin
 };
